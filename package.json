@@ -1,0 +1,1 @@
+{"description":"Five Seconds to Explain the Glass — the one sentence a house cat would say after sweeping a glass off the table.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-cat-glass-five-seconds","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
